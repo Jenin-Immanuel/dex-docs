@@ -12,7 +12,7 @@ You can get Java from [Oracle](https://www.oracle.com/java/) and ensure that the
 
 ## Installing Dark Elixir
 
-- Go to releases section of the Official [Github Repo](https://twitter.com/jeninimmanuel)
+- Go to releases section of the Official [Github Repo](https://github.com/Jenin-Immanuel/DarkElixir)
 - And then download the Dex-release folder
 - After extracting, include the folder path in your environment variables
 
