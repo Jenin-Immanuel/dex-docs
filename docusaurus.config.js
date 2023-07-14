@@ -64,6 +64,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      colorMode: {
+        defaultMode: "dark",
+      },
       image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "Dark Elixir",
@@ -129,7 +132,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Jenin Immanuel`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
